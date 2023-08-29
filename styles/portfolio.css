@@ -194,4 +194,12 @@ main section {
 .download-cv{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 130px;
+}
+
+/* footer styles */
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 230px;
 }
